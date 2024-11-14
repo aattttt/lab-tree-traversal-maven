@@ -1,0 +1,12 @@
+No recursion pseudo code
+
+start at top node
+    two layers of itteration
+    one for depth,
+    one for breadth
+
+    when I am out of things at this breadth, 
+    iterate a depth then start back at 0 for the breadth iterorator.
+    stop when I am out of depth
+
+    
